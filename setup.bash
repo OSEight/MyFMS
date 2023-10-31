@@ -5,8 +5,8 @@ mkdir MyFMS
 cd ~/MyFMS/
 mkdir vscode
 cd ~/MyFMS/vscode/
-sudo snap install --classic code
 sudo apt get update sudo apt install snapd
+sudo snap install --classic code
 cd ~/MyFMS
 mkdir user
 cd ~/MyFMS/user/
